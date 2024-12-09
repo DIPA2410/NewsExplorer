@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_slate_gray">#D512121E</color>
+    <color name="navy">#1D212B</color>
+
+    <color name="tropical_indigo_dark">#8A78FD</color>
+    <color name="tropical_indigo">#A395FC</color>
+    <color name="periwinkle">#B8B8FF</color>
+    <color name="antique_white">#FFEEDD</color>
+    <color name="apricot">#FFD8BE</color>
+</resources>
