@@ -1,12 +1,12 @@
 <p> Discover any type of Worldwide News with WeatherWiz! 🌏💫 </p>
 <p> ✨{Breaking News, Business News, Sports News, Entertainment News, Technology News, Science News and Health News}✨</p>
+
+<p> Tech Stack: 🚀 </p>
+<p> 1. Android Studio </p>
+<p> 2. Kotlin </p>
+<p> 3. REST APIs </p>
 <br>
-Tech Stack: 🚀
-1. Android Studio
-2. Kotlin
-3. REST APIs
-<br>
-Below are some sneak-peeks of the app ✨:
+<p> Below are some sneak-peeks of the app ✨: </p>
 
 <table>
   <tr>
