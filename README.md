@@ -1,11 +1,11 @@
 <p> Discover any type of Worldwide News with WeatherWiz! 🌏💫 </p>
-✨{Breaking News, Business News, Sports News, Entertainment News, Technology News, Science News and Health News}✨ 
-
+<p> ✨{Breaking News, Business News, Sports News, Entertainment News, Technology News, Science News and Health News}✨</p>
+<br>
 Tech Stack: 🚀
 1. Android Studio
 2. Kotlin
 3. REST APIs
-
+<br>
 Below are some sneak-peeks of the app ✨:
 
 <table>
@@ -24,5 +24,5 @@ Below are some sneak-peeks of the app ✨:
 
 </table>
 
-Feel free to explore the app and feedback is appreciated >.< ✨
-Download the app from the Releases ✨
+<p> Feel free to explore the app and feedback is appreciated >.< ✨ </p>
+<p> Download the app from the Releases ✨ </p>
