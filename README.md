@@ -1,4 +1,4 @@
-Discover any type of Worldwide News with WeatherWiz! 🌏💫
+<p> Discover any type of Worldwide News with WeatherWiz! 🌏💫 </p>
 ✨{Breaking News, Business News, Sports News, Entertainment News, Technology News, Science News and Health News}✨ 
 
 Tech Stack: 🚀
